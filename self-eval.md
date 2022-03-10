@@ -7,4 +7,4 @@ This section was actually quite intuitive. The only thing I struggled with was u
 I'm backfilling notes, reading my old ones and bolstering them when something is even cleared than before
 
 - What do you lean into - Googling, or trying to solve a problem in code on your own first?
-Definitely trying to solve it on my own first. It's alway something dumb, like ==, commas, capitalized methods, etc. 
+Definitely trying to solve it on my own first. It's alway something dumb, like ==, commas, capitalized methods, etc.
